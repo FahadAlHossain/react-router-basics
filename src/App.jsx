@@ -15,7 +15,8 @@ import ContactForm from "./components/ContactForm";
 import NotFound from "./components/NotFound";
 import JobLayout from "./layout/JobLayout";
 import Jobs from "./pages/Jobs";
-import { jobsLoader } from './utilis/loadData';
+import { JobDetailsLoader, jobsLoader } from './utilis/loadData';
+import JobDetails from "./components/JobDetails";
 
 function App() {
   const router = createBrowserRouter(
@@ -30,6 +31,7 @@ function App() {
         </Route>
         <Route path="jobs" element={<JobLayout></JobLayout>}>
           <Route index element={<Jobs></Jobs>} loader={jobsLoader}></Route>
+          <Route path=":id" element={<JobDetails></JobDetails>} loader={JobDetailsLoader}></Route>
         </Route>
         <Route path="*" element={<NotFound></NotFound>}></Route>
       </Route>

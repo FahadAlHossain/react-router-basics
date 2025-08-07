@@ -1,34 +1,39 @@
 {
-    "jobs":[
+    "jobs": [
         {
             "id": 1,
             "title": "Sr. React Developer",
             "salary": 50000,
-            "location": "London UK"
+            "location": "London UK",
+            "description": "We are seeking a passionate and creative Front-End Developer to join our team. You will be responsible for translating UI/UX designs into responsive web interfaces using modern technologies like React, HTML, CSS, and JavaScript. The ideal candidate has a good eye for design, strong coding skills, and a willingness to learn and grow in a fast-paced environment."
         },
         {
             "id": 2,
             "title": "Sr. React Developer",
             "salary": 50000,
-            "location": "London UK"
+            "location": "London UK",
+            "description": "We are seeking a passionate and creative Front-End Developer to join our team. You will be responsible for translating UI/UX designs into responsive web interfaces using modern technologies like React, HTML, CSS, and JavaScript. The ideal candidate has a good eye for design, strong coding skills, and a willingness to learn and grow in a fast-paced environment."
         },
         {
             "id": 3,
             "title": "Sr. React Developer",
             "salary": 50000,
-            "location": "London UK"
+            "location": "London UK",
+            "description": "We are seeking a passionate and creative Front-End Developer to join our team. You will be responsible for translating UI/UX designs into responsive web interfaces using modern technologies like React, HTML, CSS, and JavaScript. The ideal candidate has a good eye for design, strong coding skills, and a willingness to learn and grow in a fast-paced environment."
         },
         {
             "id": 4,
             "title": "Sr. React Developer",
             "salary": 50000,
-            "location": "London UK"
+            "location": "London UK",
+            "description": "We are seeking a passionate and creative Front-End Developer to join our team. You will be responsible for translating UI/UX designs into responsive web interfaces using modern technologies like React, HTML, CSS, and JavaScript. The ideal candidate has a good eye for design, strong coding skills, and a willingness to learn and grow in a fast-paced environment."
         },
         {
             "id": 5,
             "title": "Sr. React Developer",
             "salary": 50000,
-            "location": "London UK"
+            "location": "London UK",
+            "description": "We are seeking a passionate and creative Front-End Developer to join our team. You will be responsible for translating UI/UX designs into responsive web interfaces using modern technologies like React, HTML, CSS, and JavaScript. The ideal candidate has a good eye for design, strong coding skills, and a willingness to learn and grow in a fast-paced environment."
         }
-    ] 
+    ]
 }
