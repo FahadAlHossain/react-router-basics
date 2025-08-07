@@ -77,7 +77,7 @@ a.active{
 }
 .job-details p{
   max-width: 800px;
-  padding: 10px;
+  padding: 10px 0;
 }
 .job-details button{
   background: #000;
@@ -87,5 +87,5 @@ a.active{
   padding: 5px 10px;
   margin-top: 10px;
   cursor: pointer;
-  margin-left: 10px;
+  margin-right: 10px;
 }
